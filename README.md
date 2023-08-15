@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Swetank-16
 - 👀 I’m interested in developing products.
 - 🌱 I’m currently learning C++.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on learning programmes.
 - 📫 Reach me on Instagram @swetankshandilya_16
 
 <!---
